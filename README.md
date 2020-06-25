@@ -65,4 +65,4 @@ It's powerful to always give credit.
 ## LICENSE
 MIT
 
-![](https://github.com/BuildForSDG/Farm-Pro/blob/develop/IMG-20200602-WA0011.jpg) ![](https://github.com/BuildForSDG/Farm-Pro/blob/develop/IMG-20200602-WA0015.jpg) ![](https://github.com/BuildForSDG/Farm-Pro/blob/develop/IMG-20200602-WA0016.jpg)
+![](https://github.com/BuildForSDG/Farm-Pro/blob/develop/IMG-20200602-WA0011.jpg) ![](https://github.com/BuildForSDG/Farm-Pro/blob/develop/IMG-20200602-WA0015.jpg) 
