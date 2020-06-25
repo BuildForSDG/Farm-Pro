@@ -65,3 +65,4 @@ It's powerful to always give credit.
 ## LICENSE
 MIT
 
+<img src ="https://github.com/BuildForSDG/Farm-Pro/blob/develop/IMG-20200602-WA0011.jpg" height="100" width ="100";
